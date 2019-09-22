@@ -13,5 +13,5 @@ To-Do-List is a laravel version in which you can add, edit, delete the Upcoming 
 Now, you are good to work with To-Do-List.
 
 # Get Social
-: <a target="_blank" href="https://www.instagram.com/ranjithacharya.info">Instagram</a>
-: <a target="_blank" href="https://www.linkedin.com/in/ranjith-acharya">LinkedIn</a>
+: <strong><a target="_blank" href="https://www.instagram.com/ranjithacharya.info">Instagram</a></strong><br>
+: <strong><a target="_blank" href="https://www.linkedin.com/in/ranjith-acharya">LinkedIn</a></strong>
